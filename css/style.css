@@ -229,6 +229,7 @@ footer a {
 article p a:hover,
 footer a:hover {
   text-decoration:none;
+  color:#495F83;
 }
 
 .return {
