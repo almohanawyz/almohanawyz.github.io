@@ -80,14 +80,14 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family: Montserrat;
+    font-family: montserrat;
     src: url(../fonts/montserrat-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: Josefinslab;
+    font-family: josefinslab;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -97,11 +97,11 @@ header, footer {
 /* Typography Styles */
 
 html {
-    font-family: Montserrat, Arial, sans-serif;
+    font-family: montserrat, Arial, sans-serif;
 }
 
 h1, h2 {
-    font-family: Josefinslab, Georgia, serif;
+    font-family: josefinslab, Georgia, serif;
     letter-spacing: 0.125rem;
 }
 
